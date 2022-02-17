@@ -1605,5 +1605,101 @@
     "max": 23.0,
 				"min": 10.0
 
+	}, 
+	{
+		"city": "Shanghai",
+    "latitude": 31.2304, 
+		"longitude": 121.4737,
+    "max": 6.0,
+				"min": -1.0
+
+	}, 
+	{
+		"city": "Hong Kong",
+    "latitude": 22.3193, 
+		"longitude": 114.1694,
+    "max": 19.0,
+				"min": 14.0
+
+	}, 
+	{
+		"city": "Beijing",
+    "latitude": 39.9042, 
+		"longitude": 116.4074,
+    "max": 0.0,
+				"min": -9.0
+
+	}, 
+	{
+		"city": "Chongqing",
+    "latitude": 29.5657, 
+		"longitude": 106.5512,
+    "max": 12.0,
+				"min": 9.0
+
+	}, 
+	{
+		"city": "Guangzhou",
+    "latitude": 23.1291, 
+		"longitude": 113.2644,
+    "max": 17.0,
+				"min": 9.0
+
+	}, 
+	{
+		"city": "Chengdu",
+    "latitude": 30.5723, 
+		"longitude": 104.0665,
+    "max": 9.0,
+				"min": 5.0
+
+	}, 
+	{
+		"city": "Shenzhen",
+    "latitude": 22.5429, 
+		"longitude": 114.0596,
+    "max": 19.0,
+				"min": 12.0
+
+	}, 
+	{
+		"city": "Hangzhou",
+    "latitude": 30.2741, 
+		"longitude": 120.1552,
+    "max": 3.0,
+				"min": 1.0
+
+	}, 
+	{
+		"city": "Wuhan",
+    "latitude": 30.5928, 
+		"longitude": 114.3052,
+    "max": 4.0,
+				"min": -1.0
+
+	}, 
+	{
+		"city": "Xi'An",
+    "latitude": 34.2658, 
+		"longitude": 108.9541,
+    "max": 5.0,
+				"min": -1.0
+
+	}, 
+	{
+		"city": "Tianjin",
+    "latitude": 39.0851, 
+		"longitude": 117.1994,
+    "max": 1.0,
+				"min": -8.0
+
+	}, 
+	{
+		"city": "Nanjing",
+    "latitude": 32.0584, 
+		"longitude": 118.7965,
+    "max": 4.0,
+				"min": 11.0
+
 	}
 ]
