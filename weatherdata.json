@@ -3,38 +3,134 @@
 		"city": "New York",
     "latitude": 40.7127837, 
 		"longitude": -74.0059413,
-    "max": 23.0,
-		"min": 10.0
+    "max": 16.0,
+		"min": 9.0
 	}, 
 	{
 		"city": "Los Angeles",
     "latitude": 34.0522342, 
 		"longitude": -118.2436849,
-    "max": 23.0,
-		"min": 10.0
+    "max": 22.0,
+		"min": 8.0
 	}, 
 	{
 		"city": "Chicago",
     "latitude": 41.8781136, 
 		"longitude": -87.6297982,
-    "max": 23.0,
-				"min": 10.0
+    "max": 15.0,
+				"min": 9.0
+
+	}, 
+	{
+		"city": "Shanghai",
+    "latitude": 31.2304, 
+		"longitude": 121.4737,
+    "max": 6.0,
+				"min": -1.0
+
+	}, 
+	{
+		"city": "Hong Kong",
+    "latitude": 22.3193, 
+		"longitude": 114.1694,
+    "max": 19.0,
+				"min": 14.0
+
+	}, 
+	{
+		"city": "Beijing",
+    "latitude": 39.9042, 
+		"longitude": 116.4074,
+    "max": 0.0,
+				"min": -9.0
+
+	}, 
+	{
+		"city": "Chongqing",
+    "latitude": 29.5657, 
+		"longitude": 106.5512,
+    "max": 12.0,
+				"min": 9.0
+
+	}, 
+	{
+		"city": "Guangzhou",
+    "latitude": 23.1291, 
+		"longitude": 113.2644,
+    "max": 17.0,
+				"min": 9.0
+
+	}, 
+	{
+		"city": "Chengdu",
+    "latitude": 30.5723, 
+		"longitude": 104.0665,
+    "max": 9.0,
+				"min": 5.0
+
+	}, 
+	{
+		"city": "Shenzhen",
+    "latitude": 22.5429, 
+		"longitude": 114.0596,
+    "max": 19.0,
+				"min": 12.0
+
+	}, 
+	{
+		"city": "Hangzhou",
+    "latitude": 30.2741, 
+		"longitude": 120.1552,
+    "max": 3.0,
+				"min": 1.0
+
+	}, 
+	{
+		"city": "Wuhan",
+    "latitude": 30.5928, 
+		"longitude": 114.3052,
+    "max": 4.0,
+				"min": -1.0
+
+	}, 
+	{
+		"city": "Xi'An",
+    "latitude": 34.2658, 
+		"longitude": 108.9541,
+    "max": 5.0,
+				"min": -1.0
+
+	}, 
+	{
+		"city": "Tianjin",
+    "latitude": 39.0851, 
+		"longitude": 117.1994,
+    "max": 1.0,
+				"min": -8.0
+
+	}, 
+	{
+		"city": "Nanjing",
+    "latitude": 32.0584, 
+		"longitude": 118.7965,
+    "max": 4.0,
+				"min": 11.0
 
 	}, 
 	{
 		"city": "Houston",
     "latitude": 29.7604267, 
 		"longitude": -95.3698028,
-    "max": 23.0,
-				"min": 10.0
+    "max": 26.0,
+				"min": 3.0
 
 	}, 
 	{
 		"city": "Philadelphia",
     "latitude": 39.9525839, 
 		"longitude": -75.1652215,
-    "max": 23.0,
-				"min": 10.0
+    "max": 18.0,
+				"min": 11.0
 
 	}, 
 	{
@@ -42,15 +138,15 @@
     "latitude": 33.4483771, 
 		"longitude": -112.0740373,
     "max": 23.0,
-				"min": 10.0
+				"min": 5.0
 
 	}, 
 	{
 		"city": "San Antonio",
     "latitude": 29.4241219, 
 		"longitude": -98.49362819999999,
-    "max": 23.0,
-				"min": 10.0
+    "max": 25.0,
+				"min": 4.0
 
 	}, 
 	{
@@ -58,7 +154,7 @@
     "latitude": 32.715738, 
 		"longitude": -117.1610838,
     "max": 23.0,
-				"min": 10.0
+				"min": 8.0
 
 	}, 
 	{
@@ -66,38 +162,38 @@
     "latitude": 32.7766642, 
 		"longitude": -96.79698789999999,
     "max": 23.0,
-				"min": 10.0
+				"min": 6.0
 
 	}, 
 	{
 		"city": "San Jose",
     "latitude": 37.3382082, 
 		"longitude": -121.8863286,
-    "max": 23.0,
-				"min": 10.0
+    "max": 20.0,
+				"min": 12.0
 
 	}, 
 	{
 		"city": "Austin",
     "latitude": 30.267153, 
 		"longitude": -97.7430608,
-    "max": 23.0,
-				"min": 10.0
+    "max": 25.0,
+				"min": 3.0
 
 	}, 
 	{
 		"city": "Indianapolis",
     "latitude": 39.768403, 
 		"longitude": -86.158068,
-    "max": 23.0,
-				"min": 10.0
+    "max": 17.0,
+				"min": 4.0
 
 	}, 
 	{
 		"city": "Jacksonville",
     "latitude": 30.3321838, 
 		"longitude": -81.65565099999999,
-    "max": 23.0,
+    "max": 21.0,
 				"min": 10.0
 
 	}, 
@@ -105,88 +201,88 @@
 		"city": "San Francisco",
     "latitude": 37.7749295, 
 		"longitude": -122.4194155,
-    "max": 23.0,
-				"min": 10.0
+    "max": 17.0,
+				"min": 6.0
 
 	}, 
 	{
 		"city": "Columbus",
     "latitude": 39.9611755, 
 		"longitude": -82.99879419999999,
-    "max": 23.0,
-				"min": 10.0
+    "max": 15.0,
+				"min": 4.0
 
 	}, 
 	{
 		"city": "Charlotte",
     "latitude": 35.2270869, 
 		"longitude": -80.8431267,
-    "max": 23.0,
-				"min": 10.0
+    "max": 18.0,
+				"min": 5.0
 
 	}, 
 	{
 		"city": "Fort Worth",
     "latitude": 32.7554883, 
 		"longitude": -97.3307658,
-    "max": 23.0,
-				"min": 10.0
+    "max": 20.0,
+				"min": 8.0
 
 	}, 
 	{
 		"city": "Detroit",
     "latitude": 42.331427, 
 		"longitude": -83.0457538,
-    "max": 23.0,
-				"min": 10.0
+    "max": 13.0,
+				"min": 2.0
 
 	}, 
 	{
 		"city": "El Paso",
     "latitude": 31.7775757, 
 		"longitude": -106.4424559,
-    "max": 23.0,
-				"min": 10.0
+    "max": 26.0,
+				"min": 14.0
 
 	}, 
 	{
 		"city": "Memphis",
     "latitude": 35.1495343, 
 		"longitude": -90.0489801,
-    "max": 23.0,
-				"min": 10.0
+    "max": 21.0,
+				"min": 11.0
 
 	}, 
 	{
 		"city": "Seattle",
     "latitude": 47.6062095, 
 		"longitude": -122.3320708,
-    "max": 23.0,
-				"min": 10.0
+    "max": 8.0,
+				"min": 5.0
 
 	}, 
 	{
 		"city": "Denver",
     "latitude": 39.7392358, 
 		"longitude": -104.990251,
-    "max": 23.0,
-				"min": 10.0
+    "max": 15.0,
+				"min": 6.0
 
 	}, 
 	{
 		"city": "Washington",
     "latitude": 38.9071923, 
 		"longitude": -77.0368707,
-    "max": 23.0,
-				"min": 10.0
+    "max": 13.0,
+				"min": -3.0
 
 	}, 
 	{
 		"city": "Boston",
     "latitude": 42.3600825, 
 		"longitude": -71.0588801,
-    "max": 23.0,
-				"min": 10.0
+    "max": 3.0,
+				"min": -7.0
 
 	}, 
 	{
@@ -209,32 +305,32 @@
 		"city": "Oklahoma City",
     "latitude": 35.4675602, 
 		"longitude": -97.5164276,
-    "max": 23.0,
-				"min": 10.0
+    "max": 17.0,
+				"min": 13.0
 
 	}, 
 	{
 		"city": "Louisville/Jefferson County",
     "latitude": 38.2526647, 
 		"longitude": -85.7584557,
-    "max": 23.0,
-				"min": 10.0
+    "max": 14.0,
+				"min": 9.0
 
 	}, 
 	{
 		"city": "Portland",
     "latitude": 45.5230622, 
 		"longitude": -122.6764816,
-    "max": 23.0,
-				"min": 10.0
+    "max": 10.0,
+				"min": 4.0
 
 	}, 
 	{
 		"city": "Las Vegas",
     "latitude": 36.1699412, 
 		"longitude": -115.1398296,
-    "max": 23.0,
-				"min": 10.0
+    "max": 17.0,
+				"min": 4.0
 
 	}, 
 	{
@@ -1604,102 +1700,6 @@
 		"longitude": -74.2107006,
     "max": 23.0,
 				"min": 10.0
-
-	}, 
-	{
-		"city": "Shanghai",
-    "latitude": 31.2304, 
-		"longitude": 121.4737,
-    "max": 6.0,
-				"min": -1.0
-
-	}, 
-	{
-		"city": "Hong Kong",
-    "latitude": 22.3193, 
-		"longitude": 114.1694,
-    "max": 19.0,
-				"min": 14.0
-
-	}, 
-	{
-		"city": "Beijing",
-    "latitude": 39.9042, 
-		"longitude": 116.4074,
-    "max": 0.0,
-				"min": -9.0
-
-	}, 
-	{
-		"city": "Chongqing",
-    "latitude": 29.5657, 
-		"longitude": 106.5512,
-    "max": 12.0,
-				"min": 9.0
-
-	}, 
-	{
-		"city": "Guangzhou",
-    "latitude": 23.1291, 
-		"longitude": 113.2644,
-    "max": 17.0,
-				"min": 9.0
-
-	}, 
-	{
-		"city": "Chengdu",
-    "latitude": 30.5723, 
-		"longitude": 104.0665,
-    "max": 9.0,
-				"min": 5.0
-
-	}, 
-	{
-		"city": "Shenzhen",
-    "latitude": 22.5429, 
-		"longitude": 114.0596,
-    "max": 19.0,
-				"min": 12.0
-
-	}, 
-	{
-		"city": "Hangzhou",
-    "latitude": 30.2741, 
-		"longitude": 120.1552,
-    "max": 3.0,
-				"min": 1.0
-
-	}, 
-	{
-		"city": "Wuhan",
-    "latitude": 30.5928, 
-		"longitude": 114.3052,
-    "max": 4.0,
-				"min": -1.0
-
-	}, 
-	{
-		"city": "Xi'An",
-    "latitude": 34.2658, 
-		"longitude": 108.9541,
-    "max": 5.0,
-				"min": -1.0
-
-	}, 
-	{
-		"city": "Tianjin",
-    "latitude": 39.0851, 
-		"longitude": 117.1994,
-    "max": 1.0,
-				"min": -8.0
-
-	}, 
-	{
-		"city": "Nanjing",
-    "latitude": 32.0584, 
-		"longitude": 118.7965,
-    "max": 4.0,
-				"min": 11.0
 
 	}
 ]
